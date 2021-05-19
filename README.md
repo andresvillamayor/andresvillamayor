@@ -1,18 +1,27 @@
 
-<!--
-**andresvillamayor/andresvillamayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Who I'am ###
 
-- I’m currently collaborating in Data Science research.
-- Systems analyst.
+- I’m currently collaborating in Data Science research
+- Systems analyst
 - Big Data
 - Machine Learning
 - Collaborating on machine learning models
 - 💬 Ask me about Data Science 
 - 📫 How to reach me: andres.villamayor@gmail.com
+***
+### Tools i use ###
+
 - Knime
 - Python
 - Cython
-- scikit-learn
--->
+***
+
+- Some libraries that I use:
+- scikit-learn 
+- gudhi 
+- pandas 
+- scipy 
+- numpy 
+
+
