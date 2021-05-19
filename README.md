@@ -1,4 +1,3 @@
-###
 
 <!--
 **andresvillamayor/andresvillamayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +11,8 @@ Here are some ideas to get you started:
 - Collaborating on machine learning models
 - 💬 Ask me about Data Science 
 - 📫 How to reach me: andres.villamayor@gmail.com
-
+- Knime
+- Python
+- Cython
+- scikit-learn
 -->
