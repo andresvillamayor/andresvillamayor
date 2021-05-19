@@ -17,7 +17,7 @@
 - Cython
 ***
 
-- Some libraries that I use:
+#### Some libraries that I use: ####
 - scikit-learn 
 - gudhi 
 - pandas 
