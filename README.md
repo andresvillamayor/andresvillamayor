@@ -1,6 +1,6 @@
 
 
-### Who I'am ###
+### Andy Villamayor ###
 - I’m currently collaborating in Data Science research
 - Systems analyst
 - Big Data
