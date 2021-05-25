@@ -21,3 +21,4 @@ Some libraries that I use
 - pandas 
 - scipy 
 - numpy 
+- sympy
