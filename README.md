@@ -11,14 +11,7 @@
 - www.linkedin.com/in/andrés-villamayor-70297820
 ***
 ### Tools i use ###
-- Knime
-- Python
-- Cython
+- Knime,Python,Cython
 ***
 Some libraries that I use 
-- scikit-learn 
-- gudhi 
-- pandas 
-- scipy 
-- numpy 
-- sympy
+- scikit-learn,gudhi,pandas,scipy,numpy,sympy
