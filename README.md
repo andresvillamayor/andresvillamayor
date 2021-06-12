@@ -14,4 +14,4 @@
 - Knime,Python,Cython
 ***
 Some libraries that I use 
-- scikit-learn,gudhi,pandas,scipy,numpy,sympy
+- scikit-learn,gudhi,pandas,scipy,numpy,sympy,tensorflow
