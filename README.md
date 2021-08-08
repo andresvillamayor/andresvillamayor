@@ -12,6 +12,7 @@
 ***
 ### Tools i use ###
 - Knime,Python,Cython
+- Databricks
 ***
 Some libraries that I use 
 - scikit-learn,gudhi,pandas,scipy,numpy,sympy,tensorflow
