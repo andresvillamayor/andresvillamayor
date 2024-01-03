@@ -11,8 +11,11 @@
 - www.linkedin.com/in/andrés-villamayor-70297820
 ***
 ### Tools i use ###
-- Knime,Python,Cython
 - Databricks
+- Google Colab
+- Jupyter Notebook
 ***
 Some libraries that I use 
+- Python, Pyspark, Spark
 - scikit-learn,gudhi,pandas,scipy,numpy,sympy,tensorflow
+- matplotlib,Seaborn
